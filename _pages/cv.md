@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Urban and Regional Planning, University of Minnesota Twin Cities, 2021 (expected)
+* M.S. in Transportation Planning and Management, Southeast University, 2017
+* B.S. in Traffic and Transportation, Southeast University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Planning Intern
+  * MnDOT
+  * Duties included: Pedestrian and bike crashes ananlysis of trunk highway intersections in the Twin Cities Metro area
+  * Supervisor: Paul Czech and John Tomphkins
   
 Skills
 ======
@@ -54,6 +49,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
