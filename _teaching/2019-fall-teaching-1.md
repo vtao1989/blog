@@ -2,7 +2,7 @@
 title: "PA 5928 Data management and visualization with R"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2019-fall-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "Minnesota, USA"
