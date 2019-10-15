@@ -15,22 +15,6 @@ Education
 * M.S. in Transportation Planning and Management, Southeast University, 2017
 * B.S. in Traffic and Transportation, Southeast University, 2012
 
-Work experience
-======
-* Summer 2019: Planning Intern
-  * MnDOT
-  * Duties included: Pedestrian and bike crashes ananlysis of trunk highway intersections in the Twin Cities Metro area
-  * Supervisor: Paul Czech and John Tomphkins
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -49,7 +33,13 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Work experience
+======
+* Summer 2019: Planning Intern
+  * MnDOT
+  * Duties included: Pedestrian and bike crashes ananlysis of trunk highway intersections in the Twin Cities Metro area
+  * Supervisor: Paul Czech and John Tomphkins
   
 Service and leadership
 ======
