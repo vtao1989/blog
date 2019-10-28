@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a urban planning PhD student in the Humphrey School of Public Affairs.
 
-#### **Peer-reivewed paper**
+## **Peer-reivewed paper**
 
 [P3] **Tao, T.**, Wang, J., Cao, X., 2020. Exploring the non-linear associations between spatial attributes and walking distance to transit. Journal of Transport Geography 82, 102560. [[Link](https://doi.org/10.1016/j.jtrangeo.2019.102560)][[Code](https://vtao1989.github.io/DisToTransit_statistics/)]
 
@@ -18,19 +18,19 @@ I am currently a urban planning PhD student in the Humphrey School of Public Aff
 
 [P1] Dou, X., Gong, X., Guo, X., **Tao, T.**, 2017. Coordination of Feeder Bus Schedule with Train Service at Integrated Transport Hubs. Transportation Research Record: Journal of the Transportation Research Board 2648, 103-110. [[Link](https://doi.org/10.3141/2648-12)]
 
-#### **Peer-reviewed report**
+## **Peer-reviewed report**
 
 [R2] Lindsey, Greg; **Tao, Tao**; Wang, Jueyu; Cao, Jason. (2019). Pedestrian and Bicycle Crash Risk and Equity: Implications for Street Improvement Projects. Retrieved from the University of Minnesota Digital Conservancy. [[Link](http://hdl.handle.net/11299/203635)]
 
 [R1] Tomhave, Benjamin; Zhang, Yufeng; Khani, Alireza; Hourdos, John; Dirks, Peter; Olsson, Jack; **Tao, Tao**; Wu, Xinyi; Cao, Jason. (2018). After Study of The Bus Rapid Transit A Line Impacts. Center for Transportation Studies, University of Minnesota. Retrieved from the University of Minnesota Digital Conservancy. [[Link](http://hdl.handle.net/11299/201534)]
 
   
-#### **Teaching**
+## **Teaching**
 
 [T1] PA 5928 Data Management & Visualization with R (Graduate course), 2019. [[Course Website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)]
 
 
-#### **Presentation**
+## **Presentation**
 
 [PR10] **Tao Tao**. How does built environment affect activity space of people living in different income level areas? [C] In: 2019 Annual CTS Transportation Research Conference.
 
