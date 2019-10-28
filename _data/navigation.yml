@@ -2,9 +2,9 @@
 main:
 
   - title: "Post"
-    url: /posts/
+    url: /_posts/
   
-  - title: 'Test'
-    url: http://umn.edu/
+  - title: 'CV(PDF)'
+    url: /files/paper1.pdf
 
     
