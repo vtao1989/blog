@@ -2,6 +2,9 @@
 main:
 
   - title: "Post"
-    url: /post/    
+    url: /posts/
+  
+  - title: 'Test'
+    url: http://umn.edu/
 
     
