@@ -22,7 +22,7 @@ Dou, X., Gong, X., Guo, X., **Tao, T.**, 2017. Coordination of Feeder Bus Schedu
 
 Lindsey, G.; **Tao, T.**, Wang, J., Cao, J., 2019. Pedestrian and Bicycle Crash Risk and Equity: Implications for Street Improvement Projects. [[Link](http://hdl.handle.net/11299/203635)]
 
-Tomhave, B., Zhang, Y., Khani, A., Hourdos, J., Dirks, P., Olsson, J., **Tao, T.**, Wu, X., Cao, J., 2019. After Study of The Bus Rapid Transit A Line Impacts. Center for Transportation Studies, University of Minnesota. [[Link](http://hdl.handle.net/11299/201534)]
+Tomhave, B., Zhang, Y., Khani, A., Hourdos, J., Dirks, P., Olsson, J., **Tao, T.**, Wu, X., Cao, J., 2018. After Study of The Bus Rapid Transit A Line Impacts. Center for Transportation Studies, University of Minnesota. [[Link](http://hdl.handle.net/11299/201534)]
   
 ## **Teaching**
 
