@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tao Tao is a Ph.D. student in Urban and Regional Planning in the Humphrey School of Public Affairs at the University of Minnesota.  His current research involves in the interaction between land use and travel behavior, pedestrian and bicycle safety, and the impact of transit on travel demand.  He applies novel research methods, such as machine learning, in his work to explore the potential non-linear relationship between land use and travel behavior.  He has published papers in Transportation Research Part D, Journal of Transport and Geography and Transportation Research Record.  
+Tao Tao is a Ph.D. student in Urban and Regional Planning in the Humphrey School of Public Affairs at the University of Minnesota.  His current research involves in the interaction between land use and travel behavior, pedestrian and bicycle safety, and the impact of transit on travel demand.  He applies novel research methods, such as machine learning, in his work to explore the potential non-linear relationship between land use and travel behavior.  He has published papers in Journal of Planning Education and Research, Transportation Research Part D, and Journal of Transport and Geography.
   
 Tao has been the instructor for the course Data Management & Visualization with R (PA 5928) at the University of Minnesota.  He has also served as a reviewer for several journals including Urban Studies, Transportation Research Part D, and Transportation.  He is currently a student member in Association of Collegiate School of Planning and International Association of Chinese Planning.  
   
@@ -16,6 +16,8 @@ Tao received an M.E. in Transportation Planning and Management and a B.E. in Tra
 
 
 ## **Journal Articles**
+
+**Tao, T.**, Wu, X., Cao, J., Fan, Y., Das, K., Ramaswami, A., 2020. Exploring the non-linear relationship between the built environment and active travel in the Twin Cities. Journal of Planning Education and Research. (Accepted February 2020)
 
 **Tao, T.**, Wang, J., Cao, X., 2020. Exploring the non-linear associations between spatial attributes and walking distance to transit. Journal of Transport Geography 82, 102560. [[Link](https://doi.org/10.1016/j.jtrangeo.2019.102560)][[Code](https://vtao1989.github.io/DisToTransit_statistics/)]
 
