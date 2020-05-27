@@ -17,7 +17,7 @@ Tao received an M.E. in Transportation Planning and Management and a B.E. in Tra
 
 ## **Journal Articles**
 
-**Tao, T.**, Wu, X., Cao, J., Fan, Y., Das, K., Ramaswami, A., 2020. Exploring the non-linear relationship between the built environment and active travel in the Twin Cities. Journal of Planning Education and Research. (Accepted February 2020)
+**Tao, T.**, Wu, X., Cao, J., Fan, Y., Das, K., Ramaswami, A., 2020. Exploring the non-linear relationship between the built environment and active travel in the Twin Cities. Journal of Planning Education and Research. [[Link](https://doi.org/10.1177/0739456X20915765)]
 
 **Tao, T.**, Wang, J., Cao, X., 2020. Exploring the non-linear associations between spatial attributes and walking distance to transit. Journal of Transport Geography 82, 102560. [[Link](https://doi.org/10.1016/j.jtrangeo.2019.102560)][[Code](https://vtao1989.github.io/DisToTransit_statistics/)]
 
