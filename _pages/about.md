@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tao Tao is a Ph.D. student in Urban and Regional Planning in the Humphrey School of Public Affairs at the University of Minnesota.  His current research involves in the interaction between land use and travel behavior, pedestrian and bicycle safety, and the impact of transit on travel demand.  He applies novel research methods, such as machine learning, in his work to explore the potential non-linear relationship between land use and travel behavior.  He has published papers in Journal of Planning Education and Research, Transportation Research Part D, and Journal of Transport and Geography.
+Tao Tao is a Ph.D. student in Urban and Regional Planning in the Humphrey School of Public Affairs at the University of Minnesota.  His current research involves in the nonlinear interaction between built environment and travel behavior, pedestrian and bicycle safety, and the impact of transit on travel demand.  He applies novel research methods, such as machine learning, in his work to explore the potential non-linear relationship between land use and travel behavior.  He has published papers in Journal of Planning Education and Research, Transportation Research Part D, and Journal of Transport and Geography.
   
 Tao has been the instructor for the course Data Management & Visualization with R (PA 5928) at the University of Minnesota.  He has also served as a reviewer for several journals including Urban Studies, Transportation Research Part D, and Transportation.  He is currently a student member in Association of Collegiate School of Planning and International Association of Chinese Planning.  
   
