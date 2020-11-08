@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "DynamiCity"
 title_separator          : "-"
 name                     : &name "Tao Tao"
-description              : &description "PhD Student in Humphrey School of Public Affairs at the University of Minnesota"
+description              : &description "Ph.D. candidate in Urban and Regional Planning"
 url                      : https://vtao1989.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "vtao1989.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tao Tao"
   avatar           : "profile.png"
-  bio              : "PhD Student in Humphrey School of Public Affairs at the University of Minnesota"
+  bio              : "Ph.D. candidate in Urban and Regional Planning"
   location         : "Minnapolis,MN"
   employer         :
   pubmed           : 
