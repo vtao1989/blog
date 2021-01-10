@@ -33,8 +33,9 @@ Tomhave, B., Zhang, Y., Khani, A., Hourdos, J., Dirks, P., Olsson, J., **Tao, T.
   
 ## **Teaching**
 
-PA 5928 Data Management & Visualization with R (Graduate course), 2019. [[Course Website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)]
-
 PA 5234 Urban Transportation Planning and Policy (Graduate course), 2021. [[Syllabus](./files/PA_5234_syllabus_2021_spring.pdf)]
 
 PA 5928 Data Management & Visualization with R (Graduate course), 2021. 
+
+PA 5928 Data Management & Visualization with R (Graduate course), 2019. [[Course Website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)]
+
