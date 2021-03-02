@@ -15,7 +15,7 @@ Tao has been the instructor for the course Data Management & Visualization with 
 Tao received an M.E. in Transportation Planning and Management and a B.E. in Traffic and Transportation from Southeast University in Nanjing, China. After graduation, Tao looks forward to a position in academia where he can continue his research and teaching.  
 
 
-## **Journal Articles**
+## **Selected Journal Articles**
 
 **Tao, T.**, Wu, X., Cao, J., Fan, Y., Das, K., Ramaswami, A., 2020. Exploring the non-linear relationship between the built environment and active travel in the Twin Cities. Journal of Planning Education and Research. [[Link](https://doi.org/10.1177/0739456X20915765)]
 
@@ -27,7 +27,9 @@ Dou, X., Gong, X., Guo, X., **Tao, T.**, 2017. Coordination of Feeder Bus Schedu
 
 ## **Research Reports**
 
-Lindsey, G.; **Tao, T.**, Wang, J., Cao, J., 2019. Pedestrian and Bicycle Crash Risk and Equity: Implications for Street Improvement Projects. [[Link](http://hdl.handle.net/11299/203635)]
+Webb, A., **Tao, T.**, Khani, A., Cao, J., Wu, X., 2021. Impact of Transitways on Travel on Parallel and Adjacent Roads and Park-and-ride Facilities. [[Link](https://trid.trb.org/view/1768597)]
+
+Lindsey, G., **Tao, T.**, Wang, J., Cao, J., 2019. Pedestrian and Bicycle Crash Risk and Equity: Implications for Street Improvement Projects. [[Link](http://hdl.handle.net/11299/203635)]
 
 Tomhave, B., Zhang, Y., Khani, A., Hourdos, J., Dirks, P., Olsson, J., **Tao, T.**, Wu, X., Cao, J., 2018. After Study of The Bus Rapid Transit A Line Impacts. Center for Transportation Studies, University of Minnesota. [[Link](http://hdl.handle.net/11299/201534)]
   
@@ -35,7 +37,13 @@ Tomhave, B., Zhang, Y., Khani, A., Hourdos, J., Dirks, P., Olsson, J., **Tao, T.
 
 PA 5234 Urban Transportation Planning and Policy (Graduate course), 2021. [[Syllabus](./files/PA_5234_syllabus_2021_spring.pdf)]
 
-PA 5928 Data Management & Visualization with R (Graduate course), 2021. 
+PA 5928 Data Management & Visualization with R (Graduate course), 2021. [[Course Website](https://vtao1989.github.io/PA_5928_2021_spring/)]
 
 PA 5928 Data Management & Visualization with R (Graduate course), 2019. [[Course Website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)]
 
+## **Honer and Award**
+John S. Adams Award for Excellence in Transportation Research and Education, 2021  
+TRB Annual Meeting Travel Award, 2018,2019,2020  
+IACP Annual Meeting Travel Award, 2018  
+Jiangsu Daqin Alumni Fellowship, Southeast University, 2015  
+China Road and Bridge Corporation Alumni Fellowship, 2011
