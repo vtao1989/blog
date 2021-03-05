@@ -41,7 +41,7 @@ PA 5928 Data Management & Visualization with R (Graduate course), 2021. [[Course
 
 PA 5928 Data Management & Visualization with R (Graduate course), 2019. [[Course Website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)]
 
-## **Honers and Awards**
+## **Honors and Awards**
 John S. Adams Award for Excellence in Transportation Research and Education, 2021  
 TRB Annual Meeting Travel Award, 2018,2019,2020  
 IACP Annual Meeting Travel Award, 2018  
