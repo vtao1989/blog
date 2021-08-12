@@ -10,7 +10,7 @@ redirect_from:
 
 Tao Tao is a Ph.D. candidate in Urban and Regional Planning in the Humphrey School of Public Affairs at the University of Minnesota.  His current research involves in the nonlinear interaction between built environment and travel behavior, pedestrian and bicycle safety, and the impact of transit on travel demand.  He applies novel research methods, such as machine learning, in his work to explore the potential non-linear relationship between land use and travel behavior.  He has published papers in Journal of Planning Education and Research, Transportation Research Part D, and Journal of Transport and Geography.
   
-Tao has been the instructor for the course Data Management & Visualization with R (PA 5928) at the University of Minnesota.  He has also served as a reviewer for several journals including Urban Studies, Transportation Research Part D, and Transportation.  He is currently a student member in Association of Collegiate School of Planning and International Association of Chinese Planning.  
+Tao has been the instructor for the courses Urban Transportation Planning and Policy (PA5234) and Data Management & Visualization with R (PA 5928) at the University of Minnesota.  He has also served as a reviewer for several journals including Urban Studies, Transportation Research Part D, and Transportation.  He is currently a student member in Association of Collegiate School of Planning and International Association of Chinese Planning.  
   
 Tao received an M.E. in Transportation Planning and Management and a B.E. in Traffic and Transportation from Southeast University in Nanjing, China. After graduation, Tao looks forward to a position in academia where he can continue his research and teaching.  
 
@@ -35,13 +35,13 @@ Tomhave, B., Zhang, Y., Khani, A., Hourdos, J., Dirks, P., Olsson, J., **Tao, T.
   
 ## **Teaching**
 
-PA 5234 Urban Transportation Planning and Policy (Graduate course), 2021. [[Syllabus](./files/PA_5234_syllabus_2021_spring.pdf)]
+PA 5234 Urban transportation planning and policy (Graduate course), 2021. [[Syllabus](./files/PA_5234_syllabus_2021_spring.pdf)]
 
-PA 5928 Data Management & Visualization with R (Graduate course), 2022. [Upcoming]
+PA 5928 Data Management and Visualization with R (Graduate course), 2022. [Upcoming]
 
-PA 5928 Data Management & Visualization with R (Graduate course), 2021. [[Course Website](https://vtao1989.github.io/PA_5928_2021_spring/)]
+PA 5928 Data Management and Visualization with R (Graduate course), 2021. [[Course Website](https://vtao1989.github.io/PA_5928_2021_spring/)]
 
-PA 5928 Data Management & Visualization with R (Graduate course), 2019. [[Course Website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)]
+PA 5928 Data Management and Visualization with R (Graduate course), 2019. [[Course Website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)]
 
 ## **Honors and Awards**
 University of Minnesota Doctoral Dissertation Fellowship, 2021
