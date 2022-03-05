@@ -40,10 +40,10 @@ PA 5234 Urban transportation planning and policy (Graduate course), 2021 [[Sylla
 PA 5928 Data Management and Visualization with R (Graduate course), 2022 [[Course website](https://vtao1989.github.io/PA5928_2022_spring/)], 2021 [[Course website](https://vtao1989.github.io/PA_5928_2021_spring/)], 2019 [[Course website](https://vtao1989.github.io/PA5928-Data-management-and-visualization-with-R/)].
 
 ## **Honors and Awards**
-OutStanding Reviewer for Transportation Research Part D: Transport and Environment, 2021  
 University of Minnesota Doctoral Dissertation Fellowship, 2021  
 Humphrey School Summer Fellowship, 2021  
 John S. Adams Award for Excellence in Transportation Research and Education, 2021  
+Outstanding Reviewer for Transportation Research Part D: Transport and Environment, 2021  
 TRB Annual Meeting Travel Award, 2018,2019,2020  
 IACP Annual Meeting Travel Award, 2018  
 Jiangsu Daqin Alumni Fellowship, 2015  
