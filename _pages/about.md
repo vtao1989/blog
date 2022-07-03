@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tao Tao"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -45,7 +45,3 @@ University of Minnesota Doctoral Dissertation Fellowship, 2021
 Humphrey School Summer Fellowship, 2021  
 John S. Adams Award for Excellence in Transportation Research and Education, 2021  
 Outstanding Reviewer for Transportation Research Part D: Transport and Environment, 2021  
-TRB Annual Meeting Travel Award, 2018,2019,2020  
-IACP Annual Meeting Travel Award, 2018  
-Jiangsu Daqin Alumni Fellowship, 2015  
-China Road and Bridge Corporation Alumni Fellowship, 2011
