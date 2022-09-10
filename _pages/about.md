@@ -12,7 +12,7 @@ Tao Tao is a postdoc associate at the Department of Civil and Environmental Engi
   
 Tao has been the instructor for the courses Urban Transportation Planning and Policy (PA5234) and Data Management and Visualization with R (PA 5928) at the University of Minnesota.  He has also served as a reviewer for several journals including Urban Studies, Transportation Research Part D, and Transportation.  He is currently a student member in Association of Collegiate School of Planning and International Association of Chinese Planning (IACP).  He serves the Board of Directors of IACP (2021-2023).
   
-Tao received a Ph.D. in Urban and Regional Planning from University of Minnesta. He received an M.E. in Transportation Planning and Management and a B.E. in Traffic and Transportation from Southeast University in Nanjing, China. He received an M.S. in Statistics from University of Minnesota.  
+Tao received a Ph.D. in Urban and Regional Planning from University of Minnesota. He received an M.E. in Transportation Planning and Management and a B.E. in Traffic and Transportation from Southeast University in Nanjing, China. He received an M.S. in Statistics from University of Minnesota.  
 
 
 ## **Selected Journal Articles**
