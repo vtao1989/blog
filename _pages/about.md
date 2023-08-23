@@ -17,7 +17,7 @@ Tao received a Ph.D. in Urban and Regional Planning from University of Minnesota
 
 ## **Selected Journal Articles**
 
-**Tao, T.**, Cao, J., 2023. Exploring nonlinear and collective influences of regional and local built environment characteristics on travel distances by mode. Transportation Research Part D: Transport and Environment. Journal of Transport Geography 109, 103599. [[Link](https://doi.org/10.1016/j.jtrangeo.2023.103599)]
+**Tao, T.**, Cao, J., 2023. Exploring nonlinear and collective influences of regional and local built environment characteristics on travel distances by mode. Journal of Transport Geography 109, 103599. [[Link](https://doi.org/10.1016/j.jtrangeo.2023.103599)]
 
 **Tao, T.**, Næss, P., 2022. Exploring nonlinear built environment effects on driving with a mixed-methods approach. Transportation Research Part D: Transport and Environment. [[Link](https://doi.org/10.1016/j.trd.2022.103443)]
 
