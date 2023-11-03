@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Transit planning"
-permalink: /publications/transit-planning
+title: "Environment-friendly transportation system"
+permalink: /publications/environment-friendly-transportation-system
 author_profile: true
 ---
 
