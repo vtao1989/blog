@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- [Transportation and community resilience](/_publications/Transportation-and-community-resilience)
+- [Transportation and community resilience](/_publications/Transportation-and-community-resilience/)
 - [Environment-friendly transportation system]()
 - [Transportation equity]()
 - [Land use and travel behavior]()
