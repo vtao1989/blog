@@ -7,40 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="/files/Tao_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Education
-======
-* Ph.D in Urban and Regional Planning, University of Minnesota Twin Cities, 2021 (expected)
-* M.S. in Transportation Planning and Management, Southeast University, 2017
-* B.S. in Traffic and Transportation, Southeast University, 2012
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Work experience
-======
-* Summer 2019: Planning Intern
-  * MnDOT
-  * Duties included: Pedestrian and bike crashes ananlysis of trunk highway intersections in the Twin Cities Metro area
-  * Supervisor: Paul Czech and John Tomphkins
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can download a PDF copy of my CV [here](/files/Tao_CV.pdf).
