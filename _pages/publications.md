@@ -9,3 +9,5 @@ author_profile: true
 - [Transportation equity](/publications/transportation-equity)
 - [Land use and travel behavior](/publications/land-use-and-travel-behavior)
 - [Transit planning](/publications/transit-planning)
+
+See a complete list of my pulications from my [CV](/files/CV_Tao.pdf).
