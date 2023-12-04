@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<iframe src="/files/publist.html"></iframe>
+{% include publist.html %}
 
 - [Transportation and community resilience](/publications/transportation-and-community-resilience)
 - [Environment-friendly transportation system](/publications/environment-friendly-transportation-system)
