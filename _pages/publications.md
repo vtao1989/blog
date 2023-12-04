@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<iframe src="/files/publist.html"></iframe>
+
 - [Transportation and community resilience](/publications/transportation-and-community-resilience)
 - [Environment-friendly transportation system](/publications/environment-friendly-transportation-system)
 - [Transportation equity](/publications/transportation-equity)
