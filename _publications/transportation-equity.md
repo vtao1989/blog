@@ -11,7 +11,7 @@ Tao Tao
 
 > Policymakers have adopted built environment policies to modify people’s travel behavior and the related emissions.  However, most studies have not examined the interactive impact between income level and built environment attributes on travel-related carbon emissions (TCE), and only several studies consider their nonlinear relationships.  With data from the Twin Cities, US, this study estimated the nonlinear effects of built environment attributes and demographics on TCE.  It further examined the interactive impacts between household income and built environment attributes.  The findings highlight that demographics exert a greater influence on TCE than the built environment.  Employment status, job accessibility, and gender are the most important predictors.  Besides individual nonlinear relationships, household income and built environment attributes have salient interactive impacts on TCE.  The results suggest that providing environment friendly and affordable transportation choices to low-income population, switching to clean energy vehicles, and offering more matched job opportunities to low-income population near their residence are promising to create a sustainable transportation system.
 
-[Working paper]
+[Under review]
 
 ## Exploring the interaction effect of poverty concentration and transit service on highway traffic during the COVID-19 lockdown
 
