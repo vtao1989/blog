@@ -7,7 +7,7 @@ author_profile: true
 
 ## 12-644/94-893 Introduction to Transportation Systems Analysis (Graduate course)
 
-> This course covers fundamentals of planning and operation of roadway transportation. Topics covered include basic traffic flow theory, traffic signal design and evaluation, transportation planning, pricing of transportation systems, and basic data analytics techniques. The objective is to develop the capability to: 
+> This course covers fundamentals of planning and operation of roadway transportation. Topics covered include basic traffic flow theory, traffic signal design and evaluation, transportation planning, transit planning, and basic data analytics techniques. The objective is to develop the capability to: 
 - understand the principles of transportation planning and system management
 - analyze transportation systems with emerging mobility data
 - apply methodologies to solve transportation system problems and develop management strategies/policies.
