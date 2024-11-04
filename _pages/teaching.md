@@ -23,7 +23,7 @@ author_profile: true
 - Synthesize and analyze ITS policy and understand the technology challenges.  
 - Develop hands on experience of ITS concepts by applying them to scenarios such as the City of Pittsburgh’s smart transportation plans.
 
-2024 [[Syllabus](/files/Syllabus_ITS_2024.pdf)]
+2024 [[Syllabus](/files/Syllabus_Growth_w_ITS_2024.pdf)]
 
 ## PA 5234 Urban transportation planning and policy (Graduate course)
 
