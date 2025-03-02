@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Tao, T., Qian, S.*, 2025. **Pavement condition prediction for communities: A low-cost, ubiquitous, and network-wide approach**. *Journal of Infrastructure Systems*. [Journal article](https://doi.org/10.1061/JITSE4.ISENG-2378) [Accepted manuscript](files/Tao and Qian 2025)
+- Tao, T., Qian, S., 2025. **Pavement condition prediction for communities: A low-cost, ubiquitous, and network-wide approach**. *Journal of Infrastructure Systems*. [[Journal article](https://doi.org/10.1061/JITSE4.ISENG-2378)] [[Accepted manuscript](../files/Tao and Qian 2025)]
 - Cao, J.*, Tao. T., 2025. Can an identified environmental correlate of car ownership serve as a practical planning tool? Transportation Research Part A: Policy and Practice. [Link]
 - Tao, T., Qian, S.*, 2024. Do smart loading zones help reduce traffic congestion? A causal analysis in Pittsburgh. Transportation Research Part E: Logistics and Transportation Review. [Link]
 - Tao, T., Zhong, H.*, 2024. Income moderates the nonlinear influence of built environment attributes on travel-related carbon emissions. Journal of Transport Geography. [Link]
