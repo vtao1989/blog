@@ -14,7 +14,7 @@ author_profile: true
 
 2024 [[Syllabus](/files/Syllabus_intro_to_trans_sys_analysis_Fall_2024.pdf)]
 
-## 12-645/94-845 Smart cities: Growth with Intelligent Transportation Systems
+## 12-645/94-845 Smart Cities: Growth with Intelligent Transportation Systems
 
 > Cities all around the world are being built and re-invented as smart cities utilizing information systems and innovative applications of data analytics.  One major smart cities component is transportation.  The Intelligent Transportation Systems (ITS) industry is expected to grow at a rate of 4% per year and reach $37 Billion in annual investment by 2027.  This shifting dynamic provides great opportunity for improved transportation safety and efficiency but also poses challenging information systems and public policy challenges. Furthermore, there are new opportunities for professional-school graduates outside of engineering schools for employment in transportation planning and policy.
 - Develop an understanding of the underlying dynamics of the smart cities trend and how ITS is integrated.  
@@ -25,7 +25,7 @@ author_profile: true
 
 2024 [[Syllabus](/files/Syllabus_Growth_w_ITS_2024.pdf)]
 
-## PA 5234 Urban transportation planning and policy
+## PA 5234 Urban Transportation Planning and Policy
 
 > This course introduces the theories and applications in transportation planning and policy.  By the end of this course, the students will be able to comprehend the following aspects of knowledge.
 - The interaction between land use and transportation
