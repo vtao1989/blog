@@ -38,7 +38,7 @@ author_profile: true
 - Tao, T., Lindsey, G.\*, Cao, J., Wang, J., 2021. **The effects of pedestrian and bicycle exposure on crash risk in Minneapolis**. *Journal of Transport and Land Use*.  
 [[Open access](http://dx.doi.org/10.5198/jtlu.2021.1978)]
 - Tao, T.\*, Wang, J., Cao, X., 2020. **Exploring the non-linear associations between spatial attributes and walking distance to transit**. *Journal of Transport Geography*.  
-[[Link](https://doi.org/10.1016/j.jtrangeo.2019.102560)] [[Code](https://vtao1989.github.io/DisToTransit_statistics/)]
+[[Link](https://doi.org/10.1016/j.jtrangeo.2019.102560)] [[Code](https://vtao1989.github.io/DisToTransit_statistics/)] [[PDF](../files/Tao%20et%20al.%202020%20JTRG.pdf)]
 - Wu, X., Tao, T., Cao, J.\*, Fan, Y., Ramaswami, A., 2019. **Examining threshold effects of built environment elements on travel-related carbon-dioxide emissions**. *Transportation Research Part D: Transport and Environment*.  
 [[Link](https://doi.org/10.1016/j.trd.2019.08.018)]
 - Dou, X., Gong, X., Guo, X.\*, Tao, T., 2017. **Coordination of feeder bus schedule with train service at integrated transport hubs**. *Transportation Research Record: Journal of the Transportation Research Board*.  
