@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tao Tao"
 title_separator          : "-"
 name                     : &name "Tao Tao"
-description              : &description "Ph.D. in Urban and Regional Planning"
+description              : &description "Transportation Planning; Urban Informatics; Urban Computing"
 url                      : https://vtao1989.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "vtao1989.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e04HdW4AAAAJ&hl=en"
   email            : taot@andrew.cmu.edu
-  researchgate     : 
+  researchgate     : "Tao-Tao-8"
   uri              :
   bitbucket        :
   codepen          :
