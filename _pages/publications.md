@@ -12,7 +12,7 @@ author_profile: true
 - Tao, T., Qian, S.\*, 2024. **Do smart loading zones help reduce traffic congestion? A causal analysis in Pittsburgh**. *Transportation Research Part E: Logistics and Transportation Review*.  
 [[Open access](https://doi.org/10.1016/j.tre.2024.103796)]
 - Tao, T., Zhong, H.\*, 2024. **Income moderates the nonlinear influence of built environment attributes on travel-related carbon emissions**. *Journal of Transport Geography*.  
-[[Link](https://doi.org/10.1016/j.jtrangeo.2024.103985)]
+[[Link](https://doi.org/10.1016/j.jtrangeo.2024.103985)] [[PDF](../files/Tao%20and%20Zhong%202024%20JTRG.pdf)]
 - Tao, T.\*, Lindsey, G., Stern R., Levin, M., 2024. **The use of crowdsourced mobile data in estimating pedestrian and bicycle traffic: A systematic review**. *Journal of Transport and Land Use*.  
 [[Open access](https://doi.org/10.5198/jtlu.2024.2315)]
 - Tao. T.\*, Cao, J., 2024. **Ineffective built environment interventions: how to reduce driving in American suburbs?** *Transportation Research Part A: Policy and Practice*.  
