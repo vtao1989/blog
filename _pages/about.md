@@ -19,5 +19,3 @@ Tao received a Ph.D. in Urban and Regional Planning from [University of Minnesot
 [October 2024] **Do Smart Loading Zones help reduce traffic congestion? A causal analysis in Pittsburgh** has been published in *Transportation Research Part E: Logistics and Transportation Review* [[Link](https://doi.org/10.1016/j.tra.2023.103924)].  
 
 [Feb 2024] **The use of crowdsourced mobile data in estimating pedestrian and bicycle traffic: A systematic review** has been published in *Journal of Transport and Land Use* [[Link](https://doi.org/10.1016/j.tre.2024.103796)].  
-
-<iframe src='../files/publist.html' width="100%" height="100%" frameborder="0"></iframe>
