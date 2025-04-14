@@ -6,7 +6,7 @@ author_profile: true
 
 \* indicates corresponding author.  
 - Tao, T., Qian, S.\*, 2025. **Pavement condition prediction for communities: A low-cost, ubiquitous, and network-wide approach**. *Journal of Infrastructure Systems*.  
-[[Link](https://doi.org/10.1061/JITSE4.ISENG-2378){:target='_blank'} ][[Code](https://github.com/vtao1989/AssetPerformance){:target='_blank'}][[Editor's Choice](https://ascelibrary.org/jitse4/is_editors_choice_collection){:target='_blank'}]
+[[Link](https://doi.org/10.1061/JITSE4.ISENG-2378){:target='_blank'} ][[Code](https://github.com/vtao1989/AssetPerformance){:target='_blank'}][[Editor's Choice](https://ascelibrary.org/jitse4/is_editors_choice_collection){:target='_blank'}][[ASCE's coverage](https://www.asce.org/publications-and-news/civil-engineering-source/article/2025/04/01/predict-pavement-conditions-on-a-budget-using-datasets-and-ai){:target='_blank'}]
 - Yang, H., Shi, J., Tao, T.\*, 2025. **Where do built environment attributes most effectively influence bike sharing usage?**. *Transportation Research Part D: Transport and Environment*.  
 [[Open access](https://doi.org/10.1016/j.trd.2025.104717){:target='_blank'} ][[Code](https://shijiahao998.github.io/NYCBikeShairing/){:target='_blank'}]
 - Cao, J.\*, Tao. T., 2025. **Can an identified environmental correlate of car ownership serve as a practical planning tool?** *Transportation Research Part A: Policy and Practice*.  
