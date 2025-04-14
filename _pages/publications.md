@@ -8,7 +8,7 @@ author_profile: true
 - Tao, T., Qian, S.\*, 2025. **Pavement condition prediction for communities: A low-cost, ubiquitous, and network-wide approach**. *Journal of Infrastructure Systems*.  
 [[Link](https://doi.org/10.1061/JITSE4.ISENG-2378){:target='_blank'} ][[Code](https://github.com/vtao1989/AssetPerformance){:target='_blank'}][[Editor's Choice](https://ascelibrary.org/jitse4/is_editors_choice_collection){:target='_blank'}]
 - Yang, H., Shi, J., Tao, T.\*, 2025. **Where do built environment attributes most effectively influence bike sharing usage?**. *Transportation Research Part D: Transport and Environment*.  
-[[Open access](https://10.1016/j.trd.2025.104717){:target='_blank'} ][[Code](https://shijiahao998.github.io/NYCBikeShairing/){:target='_blank'}]
+[[Open access](https://doi.org/10.1016/j.trd.2025.104717){:target='_blank'} ][[Code](https://shijiahao998.github.io/NYCBikeShairing/){:target='_blank'}]
 - Cao, J.\*, Tao. T., 2025. **Can an identified environmental correlate of car ownership serve as a practical planning tool?** *Transportation Research Part A: Policy and Practice*.  
 [[Link](https://doi.org/10.1016/j.tra.2024.104304){:target='_blank'}]
 - Tao, T., Qian, S.\*, 2024. **Do smart loading zones help reduce traffic congestion? A causal analysis in Pittsburgh**. *Transportation Research Part E: Logistics and Transportation Review*.  
