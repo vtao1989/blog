@@ -14,8 +14,8 @@ Tao has been the instructor for the courses Urban Transportation Planning and Po
   
 Tao received a Ph.D. in Urban and Regional Planning from [University of Minnesota](https://twin-cities.umn.edu/). He received an M.E. in Transportation Planning and Management and a B.E. in Traffic and Transportation from [Southeast University](https://www.seu.edu.cn/english/). He received an M.S. in Statistics from University of Minnesota.  
 
+[December 2025] **Impact of traffic stress on mode choice: A data-driven analysis in Maryland** [[Link](https://doi.org/10.1061/JITSE4.ISENG-2378)] has been published in *Travel Behaviour and Society* [[Link](https://doi.org/10.1016/j.tbs.2025.101206)]. 
+
 [March 2025] **Pavement Condition Prediction for Communities: A Low-Cost, Ubiquitous, and Network-Wide Approach** [[Link](https://doi.org/10.1061/JITSE4.ISENG-2378)] has been chosen as the Editor's Choice selection by the *Journal of Infrastructure Systems* [[Link](https://ascelibrary.org/jitse4/is_editors_choice_collection)].  
 
 [October 2024] **Do Smart Loading Zones help reduce traffic congestion? A causal analysis in Pittsburgh** has been published in *Transportation Research Part E: Logistics and Transportation Review* [[Link](https://doi.org/10.1016/j.tra.2023.103924)].  
-
-[Feb 2024] **The use of crowdsourced mobile data in estimating pedestrian and bicycle traffic: A systematic review** has been published in *Journal of Transport and Land Use* [[Link](https://doi.org/10.1016/j.tre.2024.103796)].  
