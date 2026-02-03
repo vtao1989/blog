@@ -18,4 +18,4 @@ Tao received a Ph.D. in Urban and Regional Planning from [University of Minnesot
 
 [March 2025] **Pavement Condition Prediction for Communities: A Low-Cost, Ubiquitous, and Network-Wide Approach** [[Link](https://doi.org/10.1061/JITSE4.ISENG-2378)] has been chosen as the Editor's Choice selection by the *Journal of Infrastructure Systems* [[Link](https://ascelibrary.org/jitse4/is_editors_choice_collection)].  
 
-[October 2024] **Do Smart Loading Zones help reduce traffic congestion? A causal analysis in Pittsburgh** has been published in *Transportation Research Part E: Logistics and Transportation Review* [[Link](https://doi.org/10.1016/j.tra.2023.103924)].  
+[October 2024] **Do Smart Loading Zones help reduce traffic congestion? A causal analysis in Pittsburgh** has been published in *Transportation Research Part E: Logistics and Transportation Review* [[Link](https://doi.org/10.1016/j.tre.2024.103796)].  
