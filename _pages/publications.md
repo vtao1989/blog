@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 \* indicates corresponding author.  
-- Tao, T., Liu, Y., Sheng, Z., Qian, S.\*, 2026. **Impact of traffic stress on mode choice: A data-driven analysis in Maryland**. *Travel Behaviour and Society*. [[Open Access](https://doi.org/10.1016/j.tbs.2025.101206){:target='_blank'}]
+- Tao, T., Liu, Y., Sheng, Z., Qian, S.\*, 2026. **Impact of traffic stress on mode choice: A data-driven analysis in Maryland**. *Travel Behaviour and Society*. [[Open access](https://doi.org/10.1016/j.tbs.2025.101206){:target='_blank'}]
 - Yin, C., Tian, S., Tao, T.\*, 2026. **Nonlinear built environment impacts on travel behavior: A systematic review and meta-analysis**. *Transportation Research Part D: Transport and Environment*.  
 [[Open access](https://doi.org/10.1016/j.trd.2026.105396){:target='_blank'}]
 - Tao, T., Qian, S.\*, 2025. **Pavement condition prediction for communities: A low-cost, ubiquitous, and network-wide approach**. *Journal of Infrastructure Systems*.  
